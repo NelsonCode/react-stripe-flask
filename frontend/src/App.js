@@ -4,7 +4,7 @@ import { Elements } from "@stripe/react-stripe-js";
 
 function App() {
   const stripePromise = loadStripe(
-    "pk_test_51IrPtzJX3UKdjATFbIhErfo3hi3W6AwWxgNOxbiPSGJN2N4AanlOAypW8NXRwHs61JG83NxqbdjnpVFDcUJkm4Tw00idBYCdbk"
+    ""
   );
   return (
     <div>
